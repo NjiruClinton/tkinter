@@ -167,7 +167,7 @@ class BtnClick:
         data.set(val)
 
     global result
-
+# error on root below or above this line but neither.
     def result():
         global A
         global operator
